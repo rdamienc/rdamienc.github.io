@@ -1,0 +1,285 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bartoscana.com" resolutions="1x" timestamp="1551227966419">
+  <folder name="css">
+    <file name="site_global.css" crc="187748956"/>
+    <file name="master_a-master.css" crc="65971868" ref="wine:press:cocktails---wine:roberto-facciolla:menus:reservations:dolci:about:contact:events:kathie---mike-gordon:brighid-maguire:toscana"/>
+    <file name="master_b-master.css" crc="3993317081" ref="index"/>
+    <file name="wine.css" crc="111327824" ref="wine"/>
+    <file name="iefonts_wine.css" crc="4197152285" ref="wine"/>
+    <file name="press.css" crc="4124431508" ref="press"/>
+    <file name="iefonts_press.css" crc="259665510" ref="press"/>
+    <file name="cocktails---wine.css" crc="413936183" ref="cocktails---wine"/>
+    <file name="iefonts_cocktails---wine.css" crc="3864706410" ref="cocktails---wine"/>
+    <file name="roberto-facciolla.css" crc="3831920790" ref="roberto-facciolla"/>
+    <file name="iefonts_roberto-facciolla.css" crc="478484865" ref="roberto-facciolla"/>
+    <file name="menus.css" crc="4028902570" ref="menus"/>
+    <file name="reservations.css" crc="127445108" ref="reservations"/>
+    <file name="iefonts_reservations.css" crc="4256481323" ref="reservations"/>
+    <file name="dolci.css" crc="258141092" ref="dolci"/>
+    <file name="about.css" crc="4252317534" ref="about"/>
+    <file name="contact.css" crc="126018965" ref="contact"/>
+    <file name="iefonts_contact.css" crc="331114530" ref="contact"/>
+    <file name="events.css" crc="438853042" ref="events"/>
+    <file name="iefonts_events.css" crc="3992236907" ref="events"/>
+    <file name="index.css" crc="4118709668" ref="index"/>
+    <file name="kathie---mike-gordon.css" crc="3906560989" ref="kathie---mike-gordon"/>
+    <file name="iefonts_kathie---mike-gordon.css" crc="247893711" ref="kathie---mike-gordon"/>
+    <file name="brighid-maguire.css" crc="67845025" ref="brighid-maguire"/>
+    <file name="iefonts_brighid-maguire.css" crc="415459278" ref="brighid-maguire"/>
+    <file name="toscana.css" crc="58571516" ref="toscana"/>
+  </folder>
+  <folder name="assets">
+    <file name="toscana16.pdf" crc="3769577526" seo="true" mt="1481578273000"/>
+    <file name="bartoscana16.pdf" crc="320730427" seo="true" mt="1502089200000"/>
+    <file name="bartoscana16a.pdf" crc="357496169" seo="true" mt="1550802000000"/>
+    <file name="bartoscanavday17.pdf" crc="3806243612" seo="true" mt="1550802000000"/>
+    <file name="easter17.pdf" crc="4206658049" seo="true" mt="1490661924000"/>
+    <file name="easter17a.pdf" crc="513001872" seo="true" mt="1550802000000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:phone>classici-di-toscana"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:phone>classici-di-toscana"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:phone>classici-di-toscana:toscana"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="cocktails---wine:dolci:wine:toscana"/>
+  </folder>
+  <folder name="images">
+    <file name="ph1.jpg" crc="4209524642" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="ph1a.jpg" crc="525462216" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph2.jpg" crc="4165892290" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph2a.jpg" crc="265434619" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="bt_logoph.png" crc="298111133" seo="true" ref="phone>index:phone>about:phone>brighid-maguire:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>menus:phone>dolci:phone>cocktails---wine:phone>wine:phone>events:phone>press:phone>reservations:phone>contact:phone>classici-di-toscana">
+      <caption webpage="wine" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="cocktails---wine" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kathie---mike-gordon" alt=""/>
+      <caption webpage="roberto-facciolla" alt=""/>
+      <caption webpage="dolci" alt=""/>
+      <caption webpage="brighid-maguire" alt=""/>
+      <caption webpage="press" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="reservations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="classici-di-toscana" alt=""/>
+    </file>
+    <file name="phabout.jpg" crc="4065671055" seo="true" ref="phone>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brighidph.jpg" crc="19525953" seo="true" ref="phone>brighid-maguire">
+      <caption webpage="brighid-maguire" alt=""/>
+    </file>
+    <file name="phroberto.jpg" crc="212375910" seo="true" ref="phone>roberto-facciolla">
+      <caption webpage="roberto-facciolla" alt=""/>
+    </file>
+    <file name="mg.jpg" crc="514898754" seo="true" ref="phone>kathie---mike-gordon">
+      <caption webpage="kathie---mike-gordon" alt=""/>
+    </file>
+    <file name="menusph.jpg" crc="4289070710" seo="true" ref="phone>menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="dolciph.jpg" crc="4070311333" seo="true" ref="phone>dolci">
+      <caption webpage="dolci" alt=""/>
+    </file>
+    <file name="cocktailph.jpg" crc="3927120903" seo="true" ref="phone>cocktails---wine">
+      <caption webpage="cocktails---wine" alt=""/>
+    </file>
+    <file name="eventsph.jpg" crc="370249024" seo="true" ref="phone>events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="pressph.jpg" crc="4061152786" seo="true" ref="phone>press">
+      <caption webpage="press" alt=""/>
+    </file>
+    <file name="resph.jpg" crc="253543328" seo="true" ref="phone>reservations">
+      <caption webpage="reservations" alt=""/>
+    </file>
+    <file name="facebook.png" crc="67016466" seo="true" ref="phone>contact:index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="insta_outline.png" crc="284945956" seo="true" ref="phone>contact:index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter.png" crc="340129733" seo="true" ref="phone>contact:index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="contactph.jpg" crc="505925795" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fs1a.jpg" crc="3935465988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs2.jpg" crc="4097475266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs1b.jpg" crc="449419486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs4.jpg" crc="195083880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs1c.jpg" crc="3915106834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs5.jpg" crc="3940792819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs1d.jpg" crc="3867642416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fs1e.jpg" crc="3892909268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bt_logo.png" crc="287336703" seo="true" ref="index:about:menus:cocktails---wine:events:press:reservations:contact:brighid-maguire:roberto-facciolla:kathie---mike-gordon:dolci:wine:toscana">
+      <caption webpage="wine" alt=""/>
+      <caption webpage="dolci" alt=""/>
+      <caption webpage="cocktails---wine" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kathie---mike-gordon" alt=""/>
+      <caption webpage="roberto-facciolla" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="brighid-maguire" alt=""/>
+      <caption webpage="press" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="reservations" alt=""/>
+      <caption webpage="toscana" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="ot.jpg" crc="352860254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toscana-25-logo.png" crc="3959348105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wlogo.png" crc="454986404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neranologo.png" crc="307490207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about2.jpg" crc="3760272274" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="scuzz2.jpg" crc="69319022" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="cocktail1.jpg" crc="4008077850" seo="true" ref="cocktails---wine">
+      <caption webpage="cocktails---wine" alt=""/>
+    </file>
+    <file name="events3.jpg" crc="4265438687" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="press2.jpg" crc="213697402" seo="true" ref="press">
+      <caption webpage="press" alt=""/>
+    </file>
+    <file name="hapdesk.jpg" crc="3858191283" seo="true" ref="reservations">
+      <caption webpage="reservations" alt=""/>
+    </file>
+    <file name="contact2.jpg" crc="243622068" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mp.jpg" crc="4291145113" seo="true" ref="brighid-maguire">
+      <caption webpage="brighid-maguire" alt=""/>
+    </file>
+    <file name="brigid.jpg" crc="3778869978" seo="true" ref="brighid-maguire">
+      <caption webpage="brighid-maguire" alt=""/>
+    </file>
+    <file name="roberto.jpg" crc="109656947" seo="true" ref="roberto-facciolla">
+      <caption webpage="roberto-facciolla" alt=""/>
+    </file>
+    <file name="kmg.jpg" crc="4131456445" seo="true" ref="kathie---mike-gordon">
+      <caption webpage="kathie---mike-gordon" alt=""/>
+    </file>
+    <file name="dessert1.jpg" crc="156863388" seo="true" ref="dolci">
+      <caption webpage="dolci" alt=""/>
+    </file>
+    <file name="wine.jpg" crc="4251364354" seo="true" ref="wine">
+      <caption webpage="wine" alt=""/>
+    </file>
+    <file name="pastaph.jpg" crc="221338838" seo="true" ref="phone>classici-di-toscana">
+      <caption webpage="classici-di-toscana" alt=""/>
+    </file>
+    <file name="scuzz.jpg" crc="10563406" seo="true" ref="toscana">
+      <caption webpage="toscana" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="202073992" ref="phone>brighid-maguire:phone>wine:phone>reservations:phone>menus:phone>dolci:phone>about:phone>press:phone>roberto-facciolla:phone>kathie---mike-gordon:phone>cocktails---wine:phone>contact:phone>events:phone>classici-di-toscana"/>
+      <file name="master_b-master.css" crc="4220204844" ref="phone>index"/>
+      <file name="brighid-maguire.css" crc="4279545404" ref="phone>brighid-maguire"/>
+      <file name="wine.css" crc="4070714470" ref="phone>wine"/>
+      <file name="iefonts_wine.css" crc="3783882415" ref="phone>wine"/>
+      <file name="reservations.css" crc="3929889574" ref="phone>reservations"/>
+      <file name="iefonts_reservations.css" crc="254348603" ref="phone>reservations"/>
+      <file name="menus.css" crc="4076225804" ref="phone>menus"/>
+      <file name="dolci.css" crc="290613568" ref="phone>dolci"/>
+      <file name="about.css" crc="128561140" ref="phone>about"/>
+      <file name="press.css" crc="4192623421" ref="phone>press"/>
+      <file name="iefonts_press.css" crc="431274788" ref="phone>press"/>
+      <file name="roberto-facciolla.css" crc="9822643" ref="phone>roberto-facciolla"/>
+      <file name="kathie---mike-gordon.css" crc="4291200916" ref="phone>kathie---mike-gordon"/>
+      <file name="index.css" crc="229581189" ref="phone>index"/>
+      <file name="cocktails---wine.css" crc="3904402806" ref="phone>cocktails---wine"/>
+      <file name="iefonts_cocktails---wine.css" crc="4283814267" ref="phone>cocktails---wine"/>
+      <file name="contact.css" crc="312903593" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="233426407" ref="phone>contact"/>
+      <file name="events.css" crc="97475688" ref="phone>events"/>
+      <file name="iefonts_events.css" crc="4187863850" ref="phone>events"/>
+      <file name="classici-di-toscana.css" crc="403094325" ref="phone>classici-di-toscana"/>
+    </folder>
+    <file name="index.html" crc="384377968" seo="true" mt="1550878578915" redirect="true"/>
+    <file name="about.html" crc="3842180939" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="brighid-maguire.html" crc="496999098" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="roberto-facciolla.html" crc="4243984124" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="kathie---mike-gordon.html" crc="185911137" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="menus.html" crc="3801816297" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="dolci.html" crc="71966576" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="cocktails---wine.html" crc="3832527040" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="wine.html" crc="2278496" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="events.html" crc="3816518033" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="press.html" crc="522181127" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="reservations.html" crc="392896903" seo="true" mt="1550878578939" redirect="true"/>
+    <file name="contact.html" crc="513922976" seo="true" mt="1550878579362" redirect="true"/>
+    <file name="classici-di-toscana.html" crc="326398834" seo="true" mt="1550878578939" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="305238579" seo="true" mt="1550878580595" redirect="true"/>
+  <file name="about.html" crc="321274293" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="menus.html" crc="343369138" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="cocktails---wine.html" crc="450429267" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="events.html" crc="3810268976" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="press.html" crc="5740812" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="reservations.html" crc="144944681" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="contact.html" crc="371047801" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="brighid-maguire.html" crc="4005081651" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="roberto-facciolla.html" crc="4282298553" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="kathie---mike-gordon.html" crc="3776280442" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="dolci.html" crc="386979529" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="wine.html" crc="53890008" seo="true" mt="1550878580527" redirect="true"/>
+  <file name="toscana.html" crc="4269991463" seo="true" mt="1550878580527" redirect="true"/>
+</manifest>
